@@ -1,0 +1,1 @@
+A fully responsive e-commerce website inspired by The Souled Store, developed using React.js, Redux for state management, and styled with Tailwind CSS. Features include product listings, filtering, cart functionality, user authentication, and a dynamic checkout flow. Built to simulate a modern fashion retail platform with smooth UI/UX and scalable code structure.
